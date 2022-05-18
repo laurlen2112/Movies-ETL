@@ -1,3 +1,6 @@
+#add config.py to git ignore
+config.py
+
 #Mac trash file
 .ds_store
 
