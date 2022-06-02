@@ -7,5 +7,5 @@ The purpose of this project is to create an automated pipeline that extracts, tr
 This project is comprised of 4 deliverables:
   * [ETL_function_test](https://github.com/laurlen2112/Movies-ETL/blob/main/ETL_function_test.ipynb), which opens three files and converts them to data frames.
   * [ELT_clean_wiki_movies](https://github.com/laurlen2112/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb), which builds on the function created in Deliverable 1 by adding code to clean the data in the wiki movies file.
-  * [ETL_clean_kaggle](https://github.com/laurlen2112/Movies-ETL/blob/main/ETL_clean_kaggle_data..ipynb), which includes the previous functionality and adds code to clean the Kaggle file, clean the ratings file, and merge data frames.
+  * [ETL_clean_kaggle](https://github.com/laurlen2112/Movies-ETL/blob/main/ETL_clean_kaggle_data..ipynb), which includes the previous functionality and adds code to clean the kaggle file, clean the ratings file, and merge data frames.
   * [ETL_create_databse](https://github.com/laurlen2112/Movies-ETL/blob/main/ETL_create_database.ipynb), which represents the completed state of the function.  This iteration of the function performs all steps above and exports completed files to PostgreSQL.
